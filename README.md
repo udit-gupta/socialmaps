@@ -7,13 +7,14 @@ Directroy Structure/Flow:
 
     mobileproject   -   Contains code for mobile phone
         README      -   Installation steps for phone
+        old_Files   -   SOme initial code/info
         
     Developement    -   Contains some initial prototypes and other useful information that 
                         may help to understand the system better. 
                         
     Diagram         -   The picture describes the working of system at higher level.
     socialmaps      -   The Actual code that will run on server.
-
+        old_files   -   Some initial Code/info
 
 You need to change the following entries with your own values in order to make it work like a complete system.
 A simple grep may suffice.
