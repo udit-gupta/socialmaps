@@ -1,0 +1,11 @@
+:: To do list ::
+1. Markers with labels and picture of the person when clicked.
+2. Add the slider that will be used to move the timeline.  (Use a Jquery Slider to do this and this slider will not be a part of map)
+
+:: Possible Concerns ::
+1.  Logging in with facebook leads a issue, what if the same user is logging in with different mobile devices -> this will spoil all the tracking thing.
+
+Tasks that are Done : 
+1.  Managing huge amount of markers with markers clusters.    // Done
+2.  Google Maps = Drag and Zoom !    // Done
+3.  Incorporate some jquery.   // Done

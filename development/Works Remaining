@@ -1,0 +1,9 @@
+*  Implement the Google 'My Location' API with php thereby parsing the json object with php.
+*  Add a Time slider to the Map for iterating the markers with time.
+*  Replace the JS files with their corresponding compact and compressed versions to save bandwidth.
+*  Implement JQuery UI Tabs in the map.php page
+
+#####     Services to Offer    #####
+#		Show only the latest marker of the people and a direction route of his history markers (Himself, Friends, Particular friend) and make it selectable.
+#     Pie Chart all the reverse geocoded locations. (Country -> State -> Locality -> Neighbourhood)
+#     Ability to push up messages to friends when they are in a specific area (Marked beforehand by the user).

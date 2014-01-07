@@ -1,0 +1,19 @@
+**  Check if the mobile app is working as expected (Independent of the web Server)   // It seems the Stop Tracking is not working properly
+**  Change the database to have a boolean access_token is permanent of not ?            // Done
+**  Change the insert ignore command used in web login to update if there and insert if not there  // Done
+**  Backup the Mysql Classes to both DropBox and Google Docs  											// Done
+**  Implement insertion of new user from the mobile device (authentication.php)		// Done
+**  Then change uid that is returned by authentication.php with base64 encoded uid  // Done
+**  Change id ui.py sends to coordinates.php   // Done
+
+** Finally, check that if all the tracking is done as expected or not ? And are the users getting created as expected or  not ?
+:: TEST CASES ::
+Online without existing  // Done
+Online with existing        //  Done
+Mobile without existing // Done
+Mobile with existing       //  Done
+Online Check for Realtime marker updates
+
+** Then, finally pack the mobile script into a Symbian sis application.
+
+This will complete the backbone !!

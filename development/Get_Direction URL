@@ -1,0 +1,7 @@
+> Returns a JSON object
+> Just put it in the google chrome and you will know what and how to proceed.. !!
+> Use of the Google Geocoding API is subject to a query limit of 2,500 geolocation requests per day.  (But how will they track it ?  It could only be IP Address), to extend the limit they have Geocoding Premier that allows you to query 100,000 geolocaitons a day.
+
+url = http://maps.googleapis.com/maps/api/directions/json?origin=28.692979,77.1008835&destination=28.802979,77.3324&sensor=false
+
+** You can give latitude and longitude instead of origin and Desitination textual addresses **

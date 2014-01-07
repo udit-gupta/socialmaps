@@ -1,0 +1,20 @@
+######   See   #######
+
+You have to install basically 2 things out of these files :
+
+1.		Python_2.0.0.sis
+2. 	PythonScriptShell_2.0.0_high_capas.sis
+
+Now,
+> While installing these install them in the memory card when asked....
+> While installing these two.. it may give you an error "Certificate error" or something else.... in that case simply change the time of the phone to some time of 2009 or older and then these two should install without any problems...
+
+After that in the applications menu you will get "Python script shell" with the name "Python 2.0.0"
+Try running this... if this runs without trouble.. that means you are ready for the application !!
+
+If that doesn't work then only try installling the other files apart from these two... !!
+
+Now... our application "Social Maps"
+
+Now.. the name of the application is "Socail Maps.sis" that you will find in this archive... Install it similarly.. and after that you know !
+
